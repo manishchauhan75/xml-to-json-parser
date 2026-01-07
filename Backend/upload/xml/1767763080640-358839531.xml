@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school>
+    
+    <!-- ===================== -->
+    <!-- Teachers Section -->
+    <!-- ===================== -->
+    <teachers>
+        <teacher id="T001">
+            <name>Rajesh Sharma</name>
+            <email>rajesh.sharma@school.com</email>
+            <subject>Mathematics</subject>
+            <experience years="12"/>
+            <phone>9876543210</phone>
+        </teacher>
+        
+        <teacher id="T002">
+            <name>Anita Verma</name>
+            <email>anita.verma@school.com</email>
+            <subject>Physics</subject>
+            <experience years="9"/>
+            <phone>9876543211</phone>
+        </teacher>
+        
+        <teacher id="T003">
+            <name>Suresh Patil</name>
+            <email>suresh.patil@school.com</email>
+            <subject>Chemistry</subject>
+            <experience years="15"/>
+            <phone>9876543212</phone>
+        </teacher>
+        
+        <teacher id="T004">
+            <name>Neha Kulkarni</name>
+            <email>neha.kulkarni@school.com</email>
+            <subject>Biology</subject>
+            <experience years="8"/>
+            <phone>9876543213</phone>
+        </teacher>
+        
+        <teacher id="T005">
+            <name>Amit Joshi</name>
+            <email>amit.joshi@school.com</email>
+            <subject>English</subject>
+            <experience years="10"/>
+            <phone>9876543214</phone>
+        </teacher>
+        
+        <teacher id="T006">
+            <name>Priya Nair</name>
+            <email>priya.nair@school.com</email>
+            <subject>History</subject>
+            <experience years="7"/>
+            <phone>9876543215</phone>
+        </teacher>
+        
+        <teacher id="T007">
+            <name>Vikram Singh</name>
+            <email>vikram.singh@school.com</email>
+            <subject>Geography</subject>
+            <experience years="11"/>
+            <phone>9876543216</phone>
+        </teacher>
+        
+        <teacher id="T008">
+            <name>Meena Iyer</name>
+            <email>meena.iyer@school.com</email>
+            <subject>Computer Science</subject>
+            <experience years="6"/>
+            <phone>9876543217</phone>
+        </teacher>
+        
+        <teacher id="T009">
+            <name>Rahul Deshmukh</name>
+            <email>rahul.deshmukh@school.com</email>
+            <subject>Economics</subject>
+            <experience years="13"/>
+            <phone>9876543218</phone>
+        </teacher>
+        
+        <teacher id="T010">
+            <name>Pooja Mehta</name>
+            <email>pooja.mehta@school.com</email>
+            <subject>Political Science</subject>
+            <experience years="5"/>
+            <phone>9876543219</phone>
+        </teacher>
+    </teachers>
+    
+    <!-- ===================== -->
+    <!-- Students Section -->
+    <!-- ===================== -->
+    <students>
+        <student id="S001">
+            <name>Arjun Kulkarni</name>
+            <email>arjun.k@student.com</email>
+            <rollNumber>101</rollNumber>
+            <course>BSc</course>
+            <semester>3</semester>
+            <department>Science</department>
+            <phone>9123456780</phone>
+        </student>
+        
+        <student id="S002">
+            <name>Riya Sharma</name>
+            <email>riya.s@student.com</email>
+            <rollNumber>102</rollNumber>
+            <course>BSc</course>
+            <semester>3</semester>
+            <department>Science</department>
+            <phone>9123456781</phone>
+        </student>
+        
+        <student id="S003">
+            <name>Mohit Patil</name>
+            <email>mohit.p@student.com</email>
+            <rollNumber>103</rollNumber>
+            <course>BCom</course>
+            <semester>2</semester>
+            <department>Commerce</department>
+            <phone>9123456782</phone>
+        </student>
+        
+        <student id="S004">
+            <name>Sneha Joshi</name>
+            <email>sneha.j@student.com</email>
+            <rollNumber>104</rollNumber>
+            <course>BCom</course>
+            <semester>2</semester>
+            <department>Commerce</department>
+            <phone>9123456783</phone>
+        </student>
+        
+        <student id="S005">
+            <name>Karan Desai</name>
+            <email>karan.d@student.com</email>
+            <rollNumber>105</rollNumber>
+            <course>BA</course>
+            <semester>1</semester>
+            <department>Arts</department>
+            <phone>9123456784</phone>
+        </student>
+        
+        <student id="S006">
+            <name>Priyanka Nair</name>
+            <email>priyanka.n@student.com</email>
+            <rollNumber>106</rollNumber>
+            <course>BA</course>
+            <semester>1</semester>
+            <department>Arts</department>
+            <phone>9123456785</phone>
+        </student>
+        
+        <student id="S007">
+            <name>Aditya Singh</name>
+            <email>aditya.s@student.com</email>
+            <rollNumber>107</rollNumber>
+            <course>BTech</course>
+            <semester>5</semester>
+            <department>Engineering</department>
+            <phone>9123456786</phone>
+        </student>
+        
+        <student id="S008">
+            <name>Neelam Verma</name>
+            <email>neelam.v@student.com</email>
+            <rollNumber>108</rollNumber>
+            <course>BTech</course>
+            <semester>5</semester>
+            <department>Engineering</department>
+            <phone>9123456787</phone>
+        </student>
+        
+        <student id="S009">
+            <name>Rohit Mehta</name>
+            <email>rohit.m@student.com</email>
+            <rollNumber>109</rollNumber>
+            <course>MSc</course>
+            <semester>1</semester>
+            <department>Science</department>
+            <phone>9123456788</phone>
+        </student>
+        
+        <student id="S010">
+            <name>Kavya Iyer</name>
+            <email>kavya.i@student.com</email>
+            <rollNumber>110</rollNumber>
+            <course>MSc</course>
+            <semester>1</semester>
+            <department>Science</department>
+            <phone>9123456789</phone>
+        </student>
+    </students>
+    
+</school>
